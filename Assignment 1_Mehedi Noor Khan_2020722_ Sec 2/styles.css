@@ -1,0 +1,57 @@
+h2 {
+  color: darkslategray;
+  text-align: center;
+}
+hr {
+  margin-bottom: 15px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+span.week,
+span.co {
+  display: inline-block;
+  width: 100px;
+  padding: 3px;
+  text-align: center;
+  margin-right: 5px;
+}
+span.content {
+  display: inline-block;
+  width: 300px;
+  padding: 3px;
+  text-align: center;
+  margin-right: 5px;
+}
+span.lo {
+  display: inline-block;
+  width: 900px;
+  padding: 3px;
+  text-align: center;
+  margin-right: 5px;
+}
+div {
+  display: inline;
+  margin-right: 5px;
+}
+
+.week-division {
+  background-color: rgb(153, 153, 153);
+}
+.content-division {
+  background-color: whitesmoke;
+}
+
+.lo-division {
+  background-color: rgb(21, 121, 21);
+
+  color: white;
+}
+
+.co-division {
+  background-color: lightpink;
+  font-style: italic;
+}
+
+span.highlight {
+  color: rgba(122, 3, 250, 0.668);
+}
